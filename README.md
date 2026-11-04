@@ -250,6 +250,6 @@ GitHub: https://github.com/aditya-2605
 ---
 
 *CertVerify – Making Digital Certificate Verification Simple, Secure, and Reliable.*<img width="1919" height="918" alt="Screenshot 2026-11-04 155808" src="https://github.com/user-attachments/assets/49fa4ad3-4d52-4f95-8767-5d2d796faf3b" />
-<img width="3072" height="4096" alt="signsample" src="https://github.com/user-attachments/assets/59da995f-9d34-4a92-ac01-d2f0e23522e4" />
+
 <img width="1918" height="513" alt="image" src="https://github.com/user-attachments/assets/143e8a7e-46a2-4675-8e80-01ee6a8b4299" />
 
